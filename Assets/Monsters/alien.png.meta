@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 172dada8f210a8741bd51939cf2e20f2
+timeCreated: 1518329423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RArmUpper
+    21300002: greenMonsterBody
+    21300004: LArmUpper
+    21300006: RArmUpper2
+    21300008: alien_4
+    21300010: RArmUpper3
+    21300012: alien_6
+    21300014: RArmLower
+    21300016: alien_8
+    21300018: RArmLower2
+    21300020: LArmLower2
+    21300022: RArmLower3
+    21300024: LArmLower3
+    21300026: MonsterEye
+    21300028: eyeball
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RArmUpper
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 160
+        height: 60
+      alignment: 9
+      pivot: {x: 0.9583334, y: 0.179894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greenMonsterBody
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 340
+        width: 380
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LArmUpper
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 740
+        width: 160
+        height: 60
+      alignment: 9
+      pivot: {x: 0.052578736, y: 0.15079346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RArmUpper2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 640
+        width: 100
+        height: 60
+      alignment: 9
+      pivot: {x: 0.9365079, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alien_4
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 662
+        width: 100
+        height: 60
+      alignment: 9
+      pivot: {x: 0.011110839, y: 0.47089946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RArmUpper3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 540
+        width: 60
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8783071, y: 0.4781746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alien_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 60
+        height: 80
+      alignment: 9
+      pivot: {x: 0.06349182, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RArmLower
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 440
+        width: 80
+        height: 40
+      alignment: 9
+      pivot: {x: 0.9365076, y: 0.41269836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alien_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 440
+        width: 80
+        height: 40
+      alignment: 9
+      pivot: {x: 0.15079346, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RArmLower2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 380
+        width: 100
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8317459, y: 0.23809585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LArmLower2
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 380
+        width: 100
+        height: 40
+      alignment: 9
+      pivot: {x: 0.028570557, y: 0.19444504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RArmLower3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 300
+        width: 80
+        height: 60
+      alignment: 9
+      pivot: {x: 0.8273808, y: 0.20899506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LArmLower3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 300
+        width: 80
+        height: 60
+      alignment: 9
+      pivot: {x: 0.1289688, y: 0.1798945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonsterEye
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 90
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

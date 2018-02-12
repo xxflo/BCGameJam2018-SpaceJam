@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7ac9b75114979ad4eb7374aaef6560b9
+timeCreated: 1518309234
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bubble Pixel-7 Dark
+  fontNames:
+  - Bubble Pixel-7 Dark
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
